@@ -10,6 +10,14 @@ A modern, responsive recipe search and management web application built with van
 
 ---
 
+---
+
+## 📸 Screenshots
+
+<img src="public/screenshot.png" alt="Travel List Screenshot" width="100%">
+
+---
+
 ## ✨ Key Features
 
 ### 🔍 **Recipe Search**
